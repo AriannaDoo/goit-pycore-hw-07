@@ -60,11 +60,17 @@
 ## 🗂 Структура проєкту
 
 goit-pycore-hw-07/
+
 │── bot.py
+
 │── storage.py
+
 │── README.md
+
 │── .gitignore
+
 └── data/
+
 └── addressbook.pkl (створюється автоматично)
 
 ## ✨ Автор  
