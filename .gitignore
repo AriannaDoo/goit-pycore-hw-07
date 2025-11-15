@@ -1,0 +1,8 @@
+data/*.pkl
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+*.zip
